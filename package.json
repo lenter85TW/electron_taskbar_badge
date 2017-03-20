@@ -1,0 +1,11 @@
+{
+  "name": "electron_taskbar_badge",
+  "version": "1.0.0",
+  "description": "for win and mac",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DOEUN KIM (Lenter1985@naver.com)",
+  "license": "ISC"
+}
